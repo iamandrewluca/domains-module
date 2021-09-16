@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-mod',
+    title: 'domains-module',
     htmlAttrs: {
       lang: 'en'
     },
@@ -31,6 +31,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
+    '~/modules/domain.ts',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

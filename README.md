@@ -1,4 +1,4 @@
-# nuxt-mod
+# domains-module
 
 ## Build Setup
 
