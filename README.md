@@ -1,6 +1,6 @@
 # domains-module
 
-## This module will register automatically all pages from `domains/**/pages/**/*.vue
+## This module will register automatically all pages from `domains/**/pages/**/*.vue`
 
 ## Build Setup
 
